@@ -1,0 +1,21 @@
+$maxColumns: 24;
+$maxRows: 24;
+
+.gb-grid-base {
+  display: grid;
+}
+
+@for $i from 1 through $maxColumns {
+  @for $j from 1 through $maxRows {
+    .gb-grid-#{$i}-#{$j} {
+      sw-class: gb-grid-base;
+      grid-template-columns: repeat(#{$i}, auto);
+      grid-template-rows: repeat(#{$j}, auto);
+    }
+  }
+}
+
+.gb-item {
+  grid-column: auto auto;
+  grid-row: auto auto;
+}

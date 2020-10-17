@@ -1,0 +1,42 @@
+{
+  "name": "gridblade",
+  "version": "0.1.0",
+  "description": "A simple CSS framework built with SwordCSS and SCSS",
+  "main": "dist/index.css",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "stylelint src/**/*.scss",
+    "format": "prettier --no-config --write . && stylelint --fix src/**/*.scss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swordcss/gridblade.git"
+  },
+  "keywords": [
+    "css",
+    "css-framework",
+    "css-grid",
+    "grid"
+  ],
+  "author": "shadowtime2000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swordcss/gridblade/issues"
+  },
+  "homepage": "https://github.com/swordcss/gridblade#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sword": "^0.2.3",
+    "node-sass": "^4.14.1",
+    "postcss": "^8.1.1",
+    "postcss-preset-env": "^6.7.0",
+    "prettier": "^2.1.2",
+    "stylelint": "^13.7.2",
+    "stylelint-config-swordcss": "^1.3.0",
+    "swordcss": "^0.5.0"
+  }
+}
