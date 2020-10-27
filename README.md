@@ -30,3 +30,9 @@ You of course have to keep the items inside the grid tag.
 ### Size
 
 GridBlade does have a somewhat large size. It is recommended to optimize it with PurgeCSS and not to just insert it into `<head />` tag.
+
+### Supporters
+
+[![Stargazers repo roster for @swordcss/gridblade](https://reporoster.com/stars/swordcss/gridblade)](https://github.com/swordcss/gridblade/stargazers)
+
+[![Forkers repo roster for @swordcss/gridblade](https://reporoster.com/forks/swordcss/gridblade)](https://github.com/swordcss/gridblade/network/members)
