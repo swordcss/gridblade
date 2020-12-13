@@ -1,5 +1,6 @@
-<h1 align="center">GridBlade</h1>
-<h2 align="center">A simple CSS grid framework built with SwordCSS and SCSS</h2>
+# GridBlade
+
+> A simple CSS grid framework built with SwordCSS and SCSS
 
 ### Installation
 
