@@ -7,7 +7,8 @@
     "build": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "stylelint src/**/*.scss",
-    "format": "prettier --no-config --write . && stylelint --fix src/**/*.scss"
+    "format": "prettier --no-config --write . && stylelint --fix src/**/*.scss",
+    "start": "docsify serve ./docs"
   },
   "repository": {
     "type": "git",
@@ -28,6 +29,7 @@
   "devDependencies": {
     "autoprefixer": "^10.0.2",
     "dart-sass": "^1.25.0",
+    "docsify-cli": "^4.4.2",
     "gulp": "^4.0.2",
     "gulp-postcss": "^9.0.0",
     "gulp-sass": "^4.1.0",
