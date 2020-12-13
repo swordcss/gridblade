@@ -1,7 +1,7 @@
 {
   "name": "gridblade",
   "version": "0.1.0",
-  "description": "A simple CSS framework built with SwordCSS and SCSS",
+  "description": "A simple CSS grid framework built with SwordCSS and SCSS",
   "main": "dist/index.css",
   "scripts": {
     "build": "gulp",
