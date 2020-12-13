@@ -15,7 +15,7 @@ npm install --save gridblade
 The maximum number of columns and the maximum number of rows is 24. You can create a grid with
 
 ```html
-<div class="gb-container-<no. of columns>-<no. of rows>"></div>
+<div class="gb-grid-<no. of columns>-<no. of rows>"></div>
 ```
 
 where you fill in the number of columns and the number of rows.
