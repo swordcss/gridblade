@@ -3,7 +3,9 @@
 
 ### Installation
 
-`npm install --save gridblade`
+```
+npm install --save gridblade
+```
 
 ### Usage
 
