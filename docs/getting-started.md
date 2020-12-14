@@ -22,7 +22,7 @@ There is only one grid item class, `gb-item`, which automatically changes it's p
 
 ```html
 <div class="gb-grid-4-3">
-    <div class="gb-item">This is one item!</div>
-    <div class="gb-item">This is another item!</div>
+  <div class="gb-item">This is one item!</div>
+  <div class="gb-item">This is another item!</div>
 </div>
 ```

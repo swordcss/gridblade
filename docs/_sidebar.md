@@ -1,2 +1,2 @@
-* [Getting Started](/getting-started.md)
-* [Optimizing for Production](/production.md)
+- [Getting Started](/getting-started.md)
+- [Optimizing for Production](/production.md)
