@@ -1,0 +1,20 @@
+{
+    "$schema": "https://raw.githubusercontent.com/mozilla/contribute.json/master/schema.json",
+    "name": "GridBlade",
+    "description": "A simple CSS grid framework built with SwordCSS and SCSS",
+    "repository": {
+        "url": "https://github.com/swordcss/gridblade",
+        "license": "MIT",
+        "type": "git",
+        "clone": "https://github.com/mozilla/bedrock.git"
+    },
+    "participate": {
+        "docs": "https://swordcss.github.io/gridblade"
+    },
+    "keywords": [
+        "css",
+        "css-grid",
+        "css-framework",
+        "scss"
+    ]
+}
