@@ -6,7 +6,7 @@
         "url": "https://github.com/swordcss/gridblade",
         "license": "MIT",
         "type": "git",
-        "clone": "https://github.com/mozilla/bedrock.git"
+        "clone": "https://github.com/swordcss/gridblade.git"
     },
     "participate": {
         "docs": "https://swordcss.github.io/gridblade"
